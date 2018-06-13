@@ -41,4 +41,8 @@ class Dog
     dog
   end
 
+  def self.find_by_id(row)
+  end
+
+
 end
